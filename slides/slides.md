@@ -1,6 +1,6 @@
 --- { "layout" : "center" }
 
-# GitHub Bootcamp
+# GitHub Bootcamp !
 
 ---
 
